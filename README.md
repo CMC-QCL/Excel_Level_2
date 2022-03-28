@@ -13,7 +13,7 @@ Attendees are asked to have local installation of the Microsoft Excel or access 
 #**Agenda** <br>
 The workshop covers
 
-    Pivor Tables
+    Pivot Tables
     VLOOKUP (approximate match), INDEX and MATCH
     Most common functions: Count and Sum
     Logical functions: IF, AND, OR and NOT
