@@ -24,4 +24,4 @@ The workshop covers
     Broadway data set
 
 #Workshop creation by Cindy Cheng, QCL Grad Fellow (07-06-20) <br>
-#Workshop update by Vanessa Casillas, QCL Grad Fellow (03-28-22)
+#Workshop update by Vanessa Casillas, QCL Grad Fellow (03-28-22) 
